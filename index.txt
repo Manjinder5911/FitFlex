@@ -1,0 +1,209 @@
+FitFlex - Work Hard To Get Better Life
+
+
+
+#---------- HEADER ----------#
+
+<ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
+FitFlex
+
+aria-label = close menu
+<ion-icon name="close-sharp" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+Classes
+Blog
+Contact Us
+
+Join Now
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+The Best
+Fitness Club
+
+Work Hard To Get Better Life
+
+Experience the Difference of Hard Work and Persistence.
+
+Get Started
+
+alt = hero banner
+alt = heart rate
+alt = calories
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+alt = fitness
+
+About Us
+
+Welcome To Our Fitness Gym
+
+Welcome to our fitness gym, where we're dedicated to helping you reach your goals. With top-notch facilities and experienced trainers, we're here to support you every step of the way on your fitness journey.
+
+Welcome to our fitness gym, where we believe in the power of a strong body and mind. From cutting-edge equipment to motivating classes, we provide the tools and atmosphere to help you thrive.
+
+alt = Trainer
+
+Denis Robinson
+Our Coach
+
+Explore More
+
+
+
+#---------- VIDEO ----------#
+
+Explore Fitness Life
+
+aria-label = play video
+<ion-icon name="play-sharp" aria-hidden="true"></ion-icon>
+
+Watch More
+
+
+
+#---------- CLASS ----------#
+
+Our Classes
+
+Fitness Classes For Every Goal
+
+alt = Weight Lifting
+
+Weight Lifting
+
+Unleash Your Potential, One Rep at a Time. Elevate Your Strength.
+
+Class Full
+
+85%
+
+alt = Cardio & Strength
+
+Cardio & Strength
+
+Achieve Balance, Embrace Power. Fuel Your Heart, Strengthen Your Core.
+
+70%
+
+alt = Power Yoga
+
+Power Yoga
+
+Flow with Strength, Unleash Your Inner Warrior. Balance Body and Mind.
+
+90%
+
+alt = The Fitness Pack
+
+The Fitness Pack
+
+Your Ultimate Path to Strength and Wellness. Unleash Your Potential, Transform Your Lifestyle.
+
+60%
+
+
+
+#---------- BLOG ----------#
+
+Our News
+
+Latest Blog Feed
+
+alt = Going to the gym for the first time
+
+7 July 2022
+
+Going to the gym for the first time
+
+Embarking on your first gym journey? Fear not! Discover tips for beginners, learn proper techniques, and embrace the excitement of your fitness adventure.
+
+Read More
+
+alt = Maximizing Your Workout Routine
+
+Maximizing Your Workout Routine
+
+Unlock the secrets to optimizing your gym sessions. From effective exercises to smart scheduling, elevate your fitness game and achieve your goals faster than ever.
+
+alt = Healthy Eating Habits for Busy Lifestyles
+
+Healthy Eating Habits for Busy Lifestyles
+
+Explore practical strategies for maintaining a nutritious diet amidst a hectic schedule. Discover quick meal ideas, smart snacking tips, and simple ways to prioritize your health.
+
+
+
+#---------- FOOTER ----------#
+
+<ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
+FitFlex
+
+ Experience the Difference of Hard Work and Persistence.
+
+alt = Clock
+
+Monday - Friday
+7:00Am - 10:00Pm
+
+Saturday - Sunday
+7:00Am - 2:00Pm
+
+Our Links
+
+Home
+About Us
+Classes
+Blog
+Contact Us
+
+Contact Us
+
+<ion-icon name="location" aria-hidden="true"></ion-icon>
+
+145, Green Avenue, Faridkot, Punjab, India
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
+
+1800-121-3637
++91 555 234-8765
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+
+info@fitflex.com
+services@fitflex.com
+
+Our Newsletter
+
+aria-label = email
+placeholder = Email Address
+
+aria-label = Submit
+<ion-icon name="chevron-forward-sharp" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+&copy; 2022 Fitlife. All Rights Reserved By codewithsadee.
+
+Privacy Policy
+Terms & Condition
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="caret-up-sharp" aria-hidden="true"></ion-icon>
